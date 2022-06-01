@@ -3,6 +3,11 @@
 使用goorm的免费ide，配合其alwayson功能和端口转发，实现xray代理服务
 
 # 注：请勿在常用账号部署本项目
+# 项目疑似被识别，请谨慎部署
+
+![image](https://user-images.githubusercontent.com/96560028/171325273-bbccc70f-f275-47fc-a6eb-c36d5e7d0ab0.png)
+
+![image](https://user-images.githubusercontent.com/96560028/171325137-22cbc6ed-6322-4a1a-8304-4ed026bbb302.png)
 
 ## 食用方法
 
